@@ -1,1 +1,1 @@
-# Otus-Python-QA
+# Otus Python QA Course
